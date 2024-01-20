@@ -1,0 +1,12 @@
+{
+  "default": {
+    "title": "Marvarid",
+    "color": {
+      "brand": {
+        "hue": 230,
+        "saturation": 13,
+        "lightness": 9
+      }
+    }
+  }
+}
